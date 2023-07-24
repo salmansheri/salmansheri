@@ -12,7 +12,7 @@
  
 
   <div style="display: inline_block"><br>
-    <img align="center" alt="salmanVSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img align="center" alt="salmanVSCode" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fjavascript.plainenglish.io%2Fsvelte-first-impressions-lots-of-magic-99317fcaa35a&psig=AOvVaw2y9GgErftJvRJ5-aGMm20P&ust=1690319093142000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDw27qfqIADFQAAAAAdAAAAABAE" />
     <img align="center" alt="Wallace-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img align="center" alt="Wallace-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Wallace-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
