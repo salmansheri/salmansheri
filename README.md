@@ -3,7 +3,7 @@
   
 </div>
 <div align="left">
-<em>I am a Full stack Developer. I am currently doing Freelancing</p>  
+<em>I am a Full stack Developer. I am currently doing Freelancing and currently learning svelte</p>  
 </div>
 
 <div align="center">
