@@ -23,9 +23,9 @@
      <img align="center" alt="Wallace-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div>
 
-  <img align="center" alt="Wallace-React" height="1000" width="1000" src="https://github-readme-stats.vercel.app/api?username=salmansheri&theme=monokai&show_icons=true&hide_border=true&count_private=true">
-     <img align="center" alt="Wallace-React" height="1000" width="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=salmansheri&theme=monokai&hide_border=true">
-      <img align="center" alt="Wallace-React" height="1000" width="1000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmansheri&theme=monokai&show_icons=true&hide_border=true&layout=compact">
+  <img align="center" alt="Wallace-React" height="500" width="500" src="https://github-readme-stats.vercel.app/api?username=salmansheri&theme=monokai&show_icons=true&hide_border=true&count_private=true">
+     <img align="center" alt="Wallace-React" height="500" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=salmansheri&theme=monokai&hide_border=true">
+      <img align="center" alt="Wallace-React" height="500" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmansheri&theme=monokai&show_icons=true&hide_border=true&layout=compact">
  
 </div>
   
