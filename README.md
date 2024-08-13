@@ -22,10 +22,13 @@
     <img align="center" alt="Wallace-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="Wallace-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div>
+<div style="display: flex; align-items: center; justify-content: center;">
+  
 
-  <img align="center" alt="Wallace-React" height="500" width="500" src="https://github-readme-stats.vercel.app/api?username=salmansheri&theme=monokai&show_icons=true&hide_border=true&count_private=true">
-     <img align="center" alt="Wallace-React" height="500" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=salmansheri&theme=monokai&hide_border=true">
-      <img align="center" alt="Wallace-React" height="500" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmansheri&theme=monokai&show_icons=true&hide_border=true&layout=compact">
+  <img align="center" alt="Wallace-React" height="300" width="300" src="https://github-readme-stats.vercel.app/api?username=salmansheri&theme=monokai&show_icons=true&hide_border=true&count_private=true">
+     <img align="center" alt="Wallace-React" height="300" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=salmansheri&theme=monokai&hide_border=true">
+      <img align="center" alt="Wallace-React" height="300" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmansheri&theme=monokai&show_icons=true&hide_border=true&layout=compact">
+      </div>
  
 </div>
   
