@@ -3,7 +3,7 @@
   
 </div>
 <div align="left">
-<em>I am a Full stack Developer. I am currently doing Freelancing and currently learning svelte</p>  
+<em>I am a Full stack Developer. I am currently doing Freelancing and currently learning svelte</em>  
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@
     <img align="center" alt="Wallace-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="Wallace-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div>
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="">
   
 
   <img align="center" alt="Wallace-React" height="500" width="500" src="https://github-readme-stats.vercel.app/api?username=salmansheri&theme=monokai&show_icons=true&hide_border=true&count_private=true">
