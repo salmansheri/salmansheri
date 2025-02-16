@@ -25,9 +25,9 @@
 <div style="">
   
 
-  <img align="center" alt="Wallace-React" height="100" width="100" src="https://github-readme-stats.vercel.app/api?username=salmansheri&theme=monokai&show_icons=true&hide_border=true&count_private=true">
-     <img align="center" alt="Wallace-React" height="100" width="100" src="https://github-readme-streak-stats.herokuapp.com/?user=salmansheri&theme=monokai&hide_border=true">
-      <img align="center" alt="Wallace-React" height="100" width="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmansheri&theme=monokai&show_icons=true&hide_border=true&layout=compact">
+  <img align="center" alt="Wallace-React" height="300" width="300" src="https://github-readme-stats.vercel.app/api?username=salmansheri&theme=monokai&show_icons=true&hide_border=true&count_private=true">
+     <img align="center" alt="Wallace-React" height="300" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=salmansheri&theme=monokai&hide_border=true">
+      <img align="center" alt="Wallace-React" height="300" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmansheri&theme=monokai&show_icons=true&hide_border=true&layout=compact">
       </div>
  
 </div>
