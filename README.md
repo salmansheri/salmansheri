@@ -75,7 +75,7 @@
 
 [![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")][repo]
 [![Express js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge "Express js")][repo]
-[![](https://img.shields.io/badge/DotnetCore-43853D?style=for-the-badge&logo=dotnetcore&logoColor=white "Dotnet Core")][repo]
+[![](https://img.shields.io/badge/dotnet-43853D?style=for-the-badge&logo=dotnet&logoColor=#512BD4 "Dotnet Core")][repo]
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "Python")][repo]
 
 
