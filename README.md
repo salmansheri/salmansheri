@@ -97,6 +97,7 @@
 
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")][repo]
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white "C#")][repo]
+[![java](https://img.shields.io/badge/java-4169E1?style=for-the-badge&logo=java&logoColor=white "Java")][repo]
 
 <!-- [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white "Java")][repo] -->
 
@@ -191,7 +192,7 @@
 
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
 
-![](https://img.shields.io/github/followers/codingstella?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
+![](https://img.shields.io/github/followers/salmansheri?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
 
 
 
