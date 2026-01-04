@@ -30,9 +30,9 @@
 
 
 # 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmansheri&show_icons=true&locale=en" alt="codingstella" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmansheri&" alt="salmansheri" /></p>
+
+
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmansheri" alt="salmansheriff" /></a> </p>
